@@ -15,7 +15,7 @@ public class Main {
             for (int i = 0;i<tablero.length;i++) {
                 System.out.print(tablero[j][i]);
             }
-            System.out.println(" ");
+            
         }
 
     }
